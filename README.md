@@ -11,6 +11,7 @@ For each notebook, the following is done:
     4. Summarize insights at bottom of notebook.
 
 Conclusions:
+
 *Tips*
 
     - Bill amounts decrease on Fridays.
