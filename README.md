@@ -19,6 +19,7 @@ Conclusions:
     - Bills increase on Saturdays and Sundays. (weekends).
 
 *Diamonds*
+
     - The diamond price varies based on the color.
     - Ideal-cut diamonds have the highest prices.
     - Fair-cut Diamonds have the highest depths.
