@@ -1,4 +1,4 @@
-version 1.0 PR: https://github.com/batoolmalkawii/data-visualization/pull/1
+version 2.0 PR: https://github.com/batoolmalkawii/data-visualization/pull/2
 
 # Data Visualization
 
@@ -12,6 +12,7 @@ For each notebook, the following is done:
 
 Conclusions:
 *Tips*
+
     - Bill amounts decrease on Fridays.
     - Smokers give a little bit more tips.
     - Bills increase on Saturdays and Sundays. (weekends).
